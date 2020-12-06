@@ -30,7 +30,7 @@
 
 ## 3. bulletproofs
 
-1. 下载：`git clone git@github.com:teimusaku/bulletproofs.git`
+1. 下载：`git clone https://github.com/teimusaku/bulletproofs.git`
 2. 测试：`cargo test`
 3. 评估：`cargo bench`
 4. 查看：`firefox ~/bulletproofs/target/criterion/report/index.html`
